@@ -1,4 +1,4 @@
-@import url('widgets.css');
+
 
 /* FORM ROWS */
 
@@ -93,7 +93,7 @@ form ul.inline li {
 .aligned ul label {
     display: inline;
     float: none;
-    width: auto;
+    
 }
 
 .aligned .form-row input {
